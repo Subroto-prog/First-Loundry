@@ -1,0 +1,81 @@
+/* Home CSS */
+a {
+    text-decoration: none;
+    color: aliceblue;
+}
+.accordion-item, .accordion-button  {
+     border-radius: 10px !important;
+}
+/* marquee {
+    color: gold;
+} */
+
+.accordion-header :hover {
+    background-attachment: fixed;
+    background-color: palevioletred;
+    border-radius: 10px;
+    -webkit-border-radius: 10px;
+    -moz-border-radius: 10px;
+    -ms-border-radius: 10px;
+    -o-border-radius: 10px;
+    
+}
+
+/* #jam {
+    color: aqua;
+} */
+
+#tgl {
+    color: aquamarine;
+}
+
+   /* Kedip */
+   /* .kelip {
+   display: none;
+  }
+  .kelip.isVisible { display: block; } */
+
+
+  /* Contact Me */
+  p {
+    font-style: oblique;
+    margin: 30px;
+  }
+
+ .Hub {
+    font-weight: bold;
+    font-style: oblique;
+    color: yellow;
+ }
+
+ .al {
+    font-size: large;
+    font-weight: bold;
+    font-style: inherit;
+ }
+
+
+ /* About */
+p {
+    font-style: oblique;
+    margin: 30px;
+}
+
+.judulSejarah {
+    font-weight: bold;
+    font-style: oblique;
+    color: gold;
+    margin-left: 30px;
+    margin-right: 20px;
+}
+
+/* Navbar */
+.stick-nav {
+    position: sticky;
+    top: 0;
+}
+
+/* Footer */
+.foot-jam {
+    margin-top: -5em;
+}
